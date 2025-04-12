@@ -18,6 +18,10 @@ a {
 	color: whitesmoke;
 }
 
+a.portfolio {
+  color: blue;
+}
+
 img {
 	max-width: 100%;
 }
